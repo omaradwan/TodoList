@@ -1,0 +1,5 @@
+node_modules
+todoo/node_modules
+frontend/node_modules
+frontend/todolist/node_modules
+.env
